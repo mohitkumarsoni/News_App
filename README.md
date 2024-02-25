@@ -59,3 +59,6 @@
 .
 
 🫱🏼‍🫲🏾Feel free to connect and discuss this project or my Android development skills further.
+
+
+https://github.com/mohitkumarsoni/News_App/assets/108524949/02fbac9d-4e8f-4684-baf7-07c60c2fef82
